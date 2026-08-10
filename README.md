@@ -147,9 +147,8 @@ Some features that can be added in future versions:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Jivan Vijay Kshirsagar**
 
-GitHub: [@your-username](https://github.com/your-username)
 
 ## 📄 License
 
